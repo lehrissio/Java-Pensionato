@@ -1,0 +1,49 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Java build outputs
+bin/
+out/
+build/
+
+# Ignore dependency folders for unmanaged libraries
+lib/
+
+# Ignore package management files
+target/
+*.jar
+*.war
+*.ear
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.classpath
+.project
+.settings/
+
+# Ignore logs and temporary files
+*.log
+logs/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+*.so
+
+# Ignore metadata files
+*.log
+*.tmp
+*.pid
+*.gz
+*.orig
